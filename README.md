@@ -19,6 +19,9 @@ This project was done as part of an assessment for a Data Visualization Course
 6. Summary and Conclusion
 7. Data Relevance
 
+Detailed analysis of these steps can be found by following this link https://github.com/NjorogeWinnie/IMDB-Movie-Data-Analysis/blob/main/Winnie_Njoroge.ipynb
+Additionally, the presentation slides for this analysis can be found by following this link https://github.com/NjorogeWinnie/IMDB-Movie-Data-Analysis/blob/main/Winnie%20Njoroge%20Data%20Visualization%20Final%20Project.pptx 
+
 # Technologies and Software Used
 --Python 3 (Pandas, numpy, seaborn, matplotlib)
 --Google Colab
