@@ -20,8 +20,8 @@ This project was done as part of an assessment for a Data Visualization Course
 7. Data Relevance
 
 # Technologies and Software Used
-Python 3 (Pandas, numpy, seaborn, matplotlib)
-Google Colab
+--Python 3 (Pandas, numpy, seaborn, matplotlib)
+--Google Colab
 
 # Setup
 The easiest way to run this code is to upload and run it in google colab. Alternatively , if you would like to run it on your local computer you should install jupyter notebook and import pandas and numpy library to be able to run the code. The data is included in this repository. Kindly download the data and load it in the desired environment to be able to run the code effeciently.
