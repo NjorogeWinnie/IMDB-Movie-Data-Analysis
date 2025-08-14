@@ -77,11 +77,15 @@ This suggests that movies that generate more audience engagement (indicated by a
 <img width="627" height="405" alt="image" src="https://github.com/user-attachments/assets/4addc8de-a720-4ce1-b148-e38b9c09f8f1" />
 
  *  Median total gross has been relatively stable after an initial dip in 2011.
+
  <img width="627" height="397" alt="image" src="https://github.com/user-attachments/assets/4956b636-09c5-49b7-98f6-ea8b11d5bef1" />
+ 
  *  Median average ratings have also remained consistent.
+
 <img width="627" height="395" alt="image" src="https://github.com/user-attachments/assets/fcc9bd6a-c24e-49ad-a5f9-19dd00da2e0a" />
+
  *  The the median number of audience votes has shown a clear downward trend from 2010 to 2018.
- *  
+   
 *   The declining trend in audience engagement (votes) is a significant factor. Microsoft needs to develop strategies to counteract this trend and ensure their movies capture audience attention and generate interaction in a competitive market. Simply producing movies may not be enough; focusing on unique concepts, effective marketing, and engaging content will be crucial.
 
 To enter the movie industry successfully, Microsoft should strategically focus on high-grossing genres like Adventure, Sci-Fi, and Animation. While striving for quality (good ratings), they must prioritize generating strong audience engagement as this correlates more closely with financial success. Understanding the landscape of existing successful studios and the trend of declining typical audience engagement is 
