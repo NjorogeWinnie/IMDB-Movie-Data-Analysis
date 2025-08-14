@@ -65,7 +65,7 @@ This suggests that movies that generate more audience engagement (indicated by a
 *   The number of audience votes is a better indicator of potential total gross revenue than the average rating. High ratings alone do not guarantee high box office success, but movies with higher audience engagement (more votes) tend to perform better financially.
 *  Based on this, we advise Microsoft to focus on creating movies that generate significant **audience engagement and buzz**. Marketing and distribution strategies should prioritize reaching a wide audience and encouraging interaction.
 
-## 3. Performance of Existing Studios: **
+## 3. Performance of Existing Studios: 
  <img width="627" height="311" alt="image" src="https://github.com/user-attachments/assets/a641f5b4-d422-41cb-9b3a-74575e3a758f" />
  <img width="627" height="308" alt="image" src="https://github.com/user-attachments/assets/709c7f6d-1965-40b1-afbe-4866867ee68d" />
  <img width="627" height="308" alt="image" src="https://github.com/user-attachments/assets/8ad1ba17-0375-4767-9d51-6f215756a476" />
@@ -73,7 +73,7 @@ This suggests that movies that generate more audience engagement (indicated by a
 *  Studios like HC, P/DW, and BV show high median total gross, indicating strong typical performance. The analysis of domestic and foreign gross distributions reveals that some studios excel in specific markets and have varying levels of consistency and potential for blockbusters.
 *   Based on this, Microsoft can study and learn from the strategies of successful studios, particularly those with high median gross and consistent performance in target markets. This could inform decisions about genre focus, production scale, and potential talent acquisition or partnerships. Understanding the variability in earnings can also help Microsoft define its own risk tolerance and production goals (consistent earners vs. high-risk blockbusters).
 
-## 4. Trends in Movie Performance:**
+## 4. Trends in Movie Performance:
 <img width="627" height="405" alt="image" src="https://github.com/user-attachments/assets/4addc8de-a720-4ce1-b148-e38b9c09f8f1" />
 
  *  Median total gross has been relatively stable after an initial dip in 2011.
