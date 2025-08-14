@@ -19,19 +19,19 @@ Missing values were handled by removing incomplete rows
 # Experimental Design
 1. Business Understanding
 2. Problem statement
-3.Main goal
+3. Main goal
 4. Specifying the objectives
 5. Defining metric for success
 6. Data preparation
 7. Data cleaning
 8. Feature engineering
-9. EDA
+9. EDA to answer specific objectives
 10. Summary and Conclusion
 11. Follow up questions
 
-Detailed analysis of these steps can be found by following this link 
+Detailed analysis of these steps can be found by following this link https://github.com/NjorogeWinnie/IMDB-Movie-Data-Analysis/blob/main/Winnie_Njoroge1.ipynb
 
-Additionally, the presentation slides for this analysis can be found by following this link 
+Additionally, the presentation slides for this analysis can be found by following this link https://github.com/NjorogeWinnie/IMDB-Movie-Data-Analysis/blob/main/Winnie%20Njoroge%20EDA%20Final%20Project.pptx
 
 # Technologies and Software Used
 --Python 3 (Pandas, numpy, seaborn, matplotlib)
